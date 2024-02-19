@@ -13,7 +13,7 @@ public class Matematicas {
 			double y = rand.nextDouble() * 2 - 1; 
 
 			if (x * x + y * y <= 1) {
-				dentroCirculo++:
+				dentroCirculo++;
 			}
 		}
 
