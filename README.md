@@ -40,15 +40,11 @@ make javadoc
 
 ## Estructura del código
 
-Tal y como muestra la siguiente figura
-
-![diagrama UML](diagrama_clases.png)
-
 Existen dos clases: `Matematicas.java`, en el paquete `mates`, que
 contiene el método que realiza la simulación; y `Principal.java`, en el
 paquete `aplicacion`, que invoca el método de simulación.
 
 ## License
 
-Este proyecto está bajo la [Licencia](LICENSE.txt).
+Este proyecto está bajo la [Licencia](LICENSE).
 
