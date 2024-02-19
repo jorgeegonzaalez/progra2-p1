@@ -50,5 +50,5 @@ paquete `aplicacion`, que invoca el método de simulación.
 
 ## License
 
-Este proyecto está bajo la [Licencia](LICENSE.txt).
+Este proyecto está bajo la [Licencia](LICENSE).
 
