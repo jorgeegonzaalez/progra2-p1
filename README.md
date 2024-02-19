@@ -40,6 +40,8 @@ make javadoc
 
 ## Estructura del código
 
+En esta [imagen](diagrama_clases.png) se puede ver un esquema de las clases existentes en el código
+
 Existen dos clases: `Matematicas.java`, en el paquete `mates`, que
 contiene el método que realiza la simulación; y `Principal.java`, en el
 paquete `aplicacion`, que invoca el método de simulación.
