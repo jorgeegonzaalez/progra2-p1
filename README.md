@@ -18,12 +18,12 @@ make jar
 ## Ejecución del programa
 
 ```console
-java aplicacion.Principal <número_de_pasos>
+java -jar progra2-p1.jar <número_de_pasos>
 ```
 
 ## Ejemplo de Ejecución
 ```console
-java aplicacion.Principal 1000
+java -jar progra2-p1.jar 1000
 ```
 Esto generará una salida similar a:
 ```console
